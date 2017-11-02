@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hat
+comment1.params=typ\ wrn\ old
+comment1.target=Hat(java.lang.String,\ java.lang.Boolean,\ int)
+comment2.params=
+comment2.target=Hat\ makeHat()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.Boolean\ getWorn()
+comment5.params=
+comment5.target=java.lang.String\ ageString()
+numComments=6
